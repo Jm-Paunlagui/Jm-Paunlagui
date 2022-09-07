@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=jm-paunlagui&style=for-the-badge">
 <hr>
-<p align="center">
+<!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/95494414/188888596-82bd147a-0398-41c6-8167-166137df689f.png" align="center" alt="banner-jm" />
-</p>
+</p> -->
 
 ### 👋 Hi, I'm Jm and I'm a Computer Science Student at City College of Calamba. My current focus is to build our capstone project.
 
