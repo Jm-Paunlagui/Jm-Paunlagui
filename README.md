@@ -64,6 +64,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jm-paunlagui&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=nord_bright&utcOffset=8)
 
 <!--START_SECTION:waka-->
+
+```text
+HTML         52 mins         ██████████████████████▓░░   90.57 %
+JavaScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+```
+
 <!--END_SECTION:waka-->
 
 
