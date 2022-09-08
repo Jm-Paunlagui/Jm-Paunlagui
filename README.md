@@ -45,25 +45,39 @@
 
 <hr>
 
+### :octocat: My Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jm-paunlagui&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true)
+
+<hr>
+
 ### 🏆 GitHub Profile Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=jm-paunlagui&theme=algolia&margin-w=15&margin-h=15&column=4)
+![](https://github-profile-trophy.vercel.app/?username=jm-paunlagui&theme=tokyonight&margin-w=15&margin-h=15&column=4)
 
 <hr>
 
 ### 🔥 GitHub Streak Stats
 
-![](https://github-readme-streak-stats.herokuapp.com?user=jm-paunlagui&theme=algolia&border=8236DD)
+![](https://github-readme-streak-stats.herokuapp.com?user=jm-paunlagui&theme=tokyonight&border=8236DD)
+
+<hr>
 
 ### 📈 GitHub Profile Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jm-paunlagui&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jm-paunlagui&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jm-paunlagui&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jm-paunlagui&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jm-paunlagui&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jm-paunlagui&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jm-paunlagui&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=nord_bright&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=630&langs_count=9&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jm_paunlagui&theme=nord_buefy)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+### ⏲️ Productive Time Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jm_paunlagui&langs_count=9&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=tokyonight&utcOffset=8)
 
 <!--START_SECTION:waka-->
 
