@@ -66,7 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 September 2022 - To: 07 September 2022
+
+Total Time: 58 mins
+
+HTML         52 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.57 %
+JavaScript   4 mins          >>-----------------------   07.36 %
+Python       1 min           >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
