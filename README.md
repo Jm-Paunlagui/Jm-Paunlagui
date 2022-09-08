@@ -63,6 +63,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jm-paunlagui&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=nord_bright&utcOffset=8)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jm_paunlagui&theme=nord_buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
