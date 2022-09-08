@@ -63,6 +63,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jm-paunlagui&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=nord_bright&utcOffset=8)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!-- 
 
