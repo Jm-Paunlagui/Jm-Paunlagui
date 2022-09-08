@@ -75,7 +75,7 @@
 
 ### ⏲️ Productive Time Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jm_paunlagui&langs_count=9&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jm_paunlagui&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=tokyonight&utcOffset=8)
 
