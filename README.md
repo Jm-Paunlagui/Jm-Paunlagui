@@ -75,23 +75,9 @@
 
 ### ⏲️ Productive Time Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jm_paunlagui&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Jm_Paunlagui&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jm-paunlagui&theme=tokyonight&utcOffset=8)
-
-<!--START_SECTION:waka-->
-
-```text
-From: 06 September 2022 - To: 08 September 2022
-
-Total Time: 6 hrs 7 mins
-
-JavaScript   5 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>----   85.29 %
-HTML         52 mins         >>>>---------------------   14.38 %
-Python       1 min           -------------------------   00.33 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <!-- 
