@@ -4,9 +4,9 @@
     <img src="https://user-images.githubusercontent.com/95494414/188888596-82bd147a-0398-41c6-8167-166137df689f.png" align="center" alt="banner-jm" />
 </p> -->
 
-### 👋 Hi, I'm Jm and I'm a Computer Science Student at City College of Calamba. My current focus is to master Python and Javascript
+### 👋 Hi, I'm Jm and I'm a Computer Science Student at City College of Calamba. My current focus is to build our capstone project.
 
-### 🔭 Looking forward to build an AI/Deep learning model that could help with the aim of improving accessibility and independence for the visually impaired
+### 🔭 Looking forward to build an AI/Deep Learning Model with the aim of improving accessibility and independence for the visually impaired
 
 ### 😄 Pronouns: he/him/his
 
