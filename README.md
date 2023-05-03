@@ -4,13 +4,13 @@
     <img src="https://user-images.githubusercontent.com/95494414/188888596-82bd147a-0398-41c6-8167-166137df689f.png" align="center" alt="banner-jm" />
 </p> -->
 
-### 👋 Hi, I'm Jm and I'm a Computer Science Student at City College of Calamba. My current focus is to build our capstone project.
+### 👋 Hi, I'm Jm and I'm a Computer Science Student at City College of Calamba. My current focus is to master Python and Javascript
 
-### 🔭 I’m currently working on our NLP project using Tensorflow and Keras and also bulid a web application for the output model using React.js, Mysql, and Flask
+### 🔭 Looking forward to build an AI/Deep learning model that could help with the aim of improving accessibility and independence for the visually impaired
 
 ### 😄 Pronouns: he/him/his
 
-### ⚡ Fun fact: I love commiting and push codes every time i made changes to my code
+### ⚡ Fun fact: I usually sleep first before coding because It helps me think other possibilities and solutions
 
 
 ### 👨🏽‍💻 Workspace 
