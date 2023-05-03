@@ -6,11 +6,11 @@
 
 ### 👋 Hi, I'm Jm and I'm a Computer Science Student at City College of Calamba. My current focus is to build our capstone project.
 
-### 🔭 I’m currently working on our NLP project using Tensorflow and Keras and also bulid a web application for the output model using React.js, Mysql, and Flask
+### 🔭 Looking forward to build an AI/Deep Learning Model with the aim of improving accessibility and independence for the visually impaired
 
 ### 😄 Pronouns: he/him/his
 
-### ⚡ Fun fact: I love commiting and push codes every time i made changes to my code
+### ⚡ Fun fact: I usually sleep first before coding because It helps me think other possibilities and solutions
 
 
 ### 👨🏽‍💻 Workspace 
